@@ -1,0 +1,11 @@
+.Polaris-Page .Polaris-Page__Content {
+    border-radius: 8px!important;
+    padding: 10px 20px;
+  }
+
+.Polaris-Box {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+ 
